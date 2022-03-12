@@ -60,3 +60,17 @@ nav .navbar-nav .nav-item:hover .nav-link {
     background-color: #098346;
     color: #fff;
 }
+
+
+
+.all-notice ul li i {
+    color: #609513;
+    margin-right: 5px;
+}
+
+
+.all-notice ul li a {
+    color: #000;
+    font-size: 12px;
+    border-bottom: 1px dotted #000;
+}
